@@ -1,6 +1,6 @@
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+[https://my-json-server.typicode.com/tbcarver/domo-data](https://my-json-server.typicode.com/tbcarver/domo-data)
 
 ## Use your own data
 
